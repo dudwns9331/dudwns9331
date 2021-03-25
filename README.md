@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-![YeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwns9331&show_icons=true&theme=radical)
+![YeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwns9331&show_icons=true&theme=tokyonight)
 
 <br/>
 

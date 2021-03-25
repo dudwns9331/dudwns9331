@@ -1,16 +1,53 @@
+# Welcome YeongJun's Github! 😁
+
 ### Hi there 👋
 
-<!--
-**dudwns9331/dudwns9331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is YeongJun Ahn.
+  <br/>
 
-Here are some ideas to get you started:
+- I want to be a front-end Engineer.
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am attending Computer Science Department at Kangwon National University.
+
+<br/>
+
+## 🙏 Goal : 1 Day 1 Commit. 1 Year 3 Project.
+
+<br/>
+
+### 🌱 I’m currently learning React-native, JavaScript, Python
+
+<br/>
+
+### 💬 Don't Ask me about anything!!
+
+<br/>
+
+### 📫 How to reach me: dudwns1045@naver.com
+
+<br/>
+
+### ✍ My GitHub is used for basic study.
+
+<br/>
+
+## 🏃‍♀️ The profile will be updated continuously.
+
+<br/>
+<br/>
+
+![YeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwns9331&show_icons=true&theme=radical)
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudwns9331&count_bg=%2314DF23&title_bg=%231B79D3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://img.shields.io/github/followers/dudwns9331?style=social)
+
+</p>

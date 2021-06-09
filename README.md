@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🙏 Goal : 1 Day 1 Commit. 1 Year 3 Project.
+## 🙏 Goal : 1 Day 1 Commit(Python_Study). 1 Year 3 Project(React, Android).
 
 <br/>
 

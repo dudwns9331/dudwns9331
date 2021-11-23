@@ -12,15 +12,17 @@
 
 <br/>
 
-## 🙏 Goal : 1 Day 1 Commit(Python_Study). 1 Year 3 Project(React, Android).
+- 강원대학교 2018 ~ 2021 재학
+- 2022/03/02 대한민국 육군 소위 임관 (예정)
+- 2022 ~ 2024 군 복무 예정!! (git 활동 중단 및 재정비^^)
 
 <br/>
 
-### 🌱 I’m currently learning React-native, JavaScript, Python
+## 🙏 Goal : 1 Day 1 Commit(Python_Study). 1 Year 3 Project(React, Android). 2021 년 10월 28일부로 종료
 
 <br/>
 
-### 💬 Don't Ask me about anything!!
+### 🌱 I’m currently learning : JS, Linux, AWS, Android(Kotlin), Java, React
 
 <br/>
 
